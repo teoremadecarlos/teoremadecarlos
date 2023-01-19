@@ -13,7 +13,7 @@
 **Aplicações e Dados**
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logo=java)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -35,6 +35,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/devscarlos)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: devscarlos](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/devscarlos)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjsantos109@gmail.com)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/devscarlos?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub devscarlos]( https://img.shields.io/github/followers/devscarlos?label=follow&style=social)](LINK-DO-SEU-GITHUB)
