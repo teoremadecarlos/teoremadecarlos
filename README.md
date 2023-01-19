@@ -36,5 +36,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: devscarlos](https://img.shields.io/badge/-devscarlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/devscarlos)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-envie um email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjsantos109@gmail.com)](mailto:SEU-EMAIL)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjsantos109@gmail.com)](mailto:SEU-EMAIL)
 [![GitHub devscarlos]( https://img.shields.io/github/followers/devscarlos?label=follow&style=social)](LINK-DO-SEU-GITHUB)
