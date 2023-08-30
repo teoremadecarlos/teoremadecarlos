@@ -1,5 +1,3 @@
-![teoremadecarlos](https://komarev.com/ghpvc/?teoremadecarlos&color=006bed)
-
 ## 💜 Olá, meu nome é <strong>{Carlos}!</strong>
 
 > Me chamo Carlos João, tenho 18 anos e curso Análise e Desenvolvimento de Sistemas na <a href="https://uninassau.edu.br">Uninassau</a> por meio do programa <a href="https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital">Embarque Digital</a>.
