@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em **Programador de Sistemas** no <a href="https://www.pe.senac.br/">Senac</a>.
+- 🎓 &nbsp; Estudando *Análise e Desenvolvimento de Sistemas* na <a href="https://www.uninassau.edu.br/">Uninassau</a>.
 - 💼 &nbsp; Trabalhando em...
 - 🌱 &nbsp; Aprendendo mais sobre **Javascript, Java e Figma**.
 
@@ -35,6 +35,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: devscarlos](https://img.shields.io/badge/-devscarlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/devscarlos)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: teoremadecarlos](https://img.shields.io/badge/-devscarlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/teoremadecarlos)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-carlosjsantos109@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjsantos109@gmail.com)](mailto:SEU-EMAIL)
-[![GitHub devscarlos]( https://img.shields.io/github/followers/devscarlos?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub teoremadecarlos]( https://img.shields.io/github/followers/teoremadecarlos?label=follow&style=social)](LINK-DO-SEU-GITHUB)
