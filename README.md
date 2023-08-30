@@ -1,4 +1,3 @@
-
 ![](https://komarev.com/ghpvc/?teoremadecarlos&color=006bed)
 
 ## 💜 Olá, meu nome é <strong>{Carlos}!</strong>
