@@ -1,33 +1,42 @@
-## 💜 Olá, meu nome é <strong>{Carlos}!</strong>
+# Carlos João
+Olá, meu nome é Carlos, tenho 18 anos,sou de Recife e atualmente estou estudando para Ciência de Dados.
 
-👤 Me chamo Carlos João, tenho 18 anos e curso Análise e Desenvolvimento de Sistemas na <a href="https://uninassau.edu.br">Uninassau</a> por meio do programa <a href="https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital">Embarque Digital</a>.
+## Siga-me nas redes sociais
 
-💬 Caso queira entrar em contato, procure-me no instagram <a href="https://instagram.com/teoremadecarlos">@teoremadecarlos<a> ou no meu linkedin <a href="https://linkedin.com/in/teoremadecarlos">@teoremadecarlos</a>.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teoremadecarlos/)
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teoremadecarlos)
 
-## 🚀 Minhas Skills
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:carlosjsantos109@gmail.com)
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+## Minhas tecnologias
 
----
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## ⭐ Informações sobre minha conta GitHub
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![teoremadecarlos](https://github-readme-stats.vercel.app/api?username=teoremadecarlos&theme=radical)](https://github.com/teoremadecarlos/github-readme-stats)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-[![teoremadecarlos](https://github-readme-stats.vercel.app/api/top-langs/?username=teoremadecarlos&hide=html&layout=compact&theme=radical)](https://github.com/teoremadecarlos/github-readme-stats)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
-[website]: https://codedev.ga/
-[instagram]: https://www.instagram.com/teoremadecarlos/
-[linkedin]: https://www.linkedin.com/in/teoremadecarlos/
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-<br>
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## Redes sociais
 
-📷 [Instagram][instagram] **|**
-👔 [LinkedIn][linkedin]
+## Databases
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+# Minhas Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teoremadecarlos&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=teoremadecarlos&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
