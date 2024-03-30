@@ -1,5 +1,6 @@
-# Carlos João
-Olá, meu nome é Carlos, tenho 18 anos,sou de Recife e atualmente estou estudando para Ciência de Dados.
+# Olá, eu sou {Carlos João}
+Olá, meu nome é Carlos, tenho 18 anos, sou de Recife e atualmente estou estudando para Ciência de Dados.
+Curso Análise e Desenvolvimento de Sistemas na Uninassau por meio do programa [Embarque Digital](https://www.portodigital.org/paginas-institucionais/pessoas/formacao?item=Embarque%20Digital#EmbarqueDigital), parceria do [Porto Digital](https://www.portodigital.org/) com a Prefeitura de Recife.
 
 ## Siga-me nas redes sociais
 
@@ -26,6 +27,5 @@ Olá, meu nome é Carlos, tenho 18 anos,sou de Recife e atualmente estou estudan
 
 # Minhas Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teoremadecarlos&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=teoremadecarlos&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teoremadecarlos&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
