@@ -26,6 +26,4 @@ Curso Análise e Desenvolvimento de Sistemas na Uninassau por meio do programa [
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Minhas Estatísticas
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=teoremadecarlos&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teoremadecarlos&theme=dracula&bg_icons=true&icon)
