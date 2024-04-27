@@ -27,4 +27,4 @@ Curso Análise e Desenvolvimento de Sistemas na Uninassau por meio do programa [
 
 # Minhas Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teoremadecarlos&theme=dracula&bg_icons=true&icon)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teoremadecarlos&layout=compact&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teoremadecarlos&layout=compact&theme=dracula)
